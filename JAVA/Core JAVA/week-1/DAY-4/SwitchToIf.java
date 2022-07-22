@@ -22,3 +22,4 @@ public class SwitchToIf {
         switchToIf.switchToif_meth();
     }
 }
+// OUTPUT --> X = 4
